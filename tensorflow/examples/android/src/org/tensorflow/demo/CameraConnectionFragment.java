@@ -441,6 +441,7 @@ public class CameraConnectionFragment extends Fragment {
     }
   }
 
+
   /**
    * Closes the current {@link CameraDevice}.
    */
